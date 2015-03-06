@@ -1,0 +1,14 @@
+{
+  "name": "vimer",
+  "version": "1.0.0",
+  "description": "Store your Vim setup on GitHub",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Sabelnikov <dsabelnikov@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "shelljs": "^0.3.0"
+  }
+}
